@@ -1,15 +1,13 @@
 
-### <div align="center">I'm Christine, a Front-End Development Engineer 👧🏻.</div>  
-  
+### <h2 align="center" style="font-size=50px">I'm Christine, a Front-End Development Engineer 👧🏻.</h2>  
 
-- 🔭 I’m currently looking for a job, Referrals are welcome  
+- 🔭 I’m currently looking for a job, Referrals are welcome.
   
-- 🌱 I’m currently learning RN 、Nest and PostgreSQL
+- 🌱 I’m currently learning RN 、Nest and PostgreSQL.
 
-- 📫 How to contact me tsy17321289030@163.com 
+- 📫 How to contact me tsy17321289030@163.com.
   
-
-<br/>  
+ 
 
 
 ## My Skill Set  
