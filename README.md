@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for a job, Referrals are welcome  
   
-- 🌱 I’m currently learning RN 、Nest and Postgres
+- 🌱 I’m currently learning RN 、Nest and PostgreSQL
 
 - 📫 How to contact me tsy17321289030@163.com 
   
