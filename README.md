@@ -14,5 +14,5 @@ I'm Christine, a Front-End Development Engineer 👧🏻.
 </div>
 
 ### Visitors Statistic
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Christine-Only)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Cristine-Only.R_kgDOGfN1DA)
 
