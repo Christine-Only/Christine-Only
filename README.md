@@ -14,5 +14,5 @@ I'm Christine, a Front-End Development Engineer 👧🏻.
 </div>
 
 ### Visitors Statistic
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Christine-Only.R_kgDOGfN1DA)
+![visitor badeg](https://visitor-badge.laobi.icu/badge?page_id=Christine-Only.R_kgDOGfN1DA)
 
